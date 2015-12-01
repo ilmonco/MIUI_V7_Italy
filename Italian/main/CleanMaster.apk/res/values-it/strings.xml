@@ -11,8 +11,8 @@
     <string name="empty_title_ad">Nessuna pubblicità trovata</string>
     <string name="empty_title_apk">Nessun pacchetto di installazione trovato</string>
     <string name="empty_title_residual">Nessun residuo trovato</string>
-    <string name="btn_text_quick_cleanup">Pulizia</string>
-    <string name="hints_title_garbage">Cestino</string>
+    <string name="btn_text_quick_cleanup">Avvia Pulizia</string>
+    <string name="hints_title_garbage">da rimuovere</string>
     <string name="activity_title_deep_clean">Pulizia approfondita</string>
     <string name="activity_title_cache">Cache</string>
     <string name="activity_title_ad">Pubblicità</string>
@@ -23,8 +23,8 @@
     <string name="hints_app_uninstall_residual">Pulire i resti della disinstallazione delle app?</string>
     <string name="button_text_cancel">Annulla</string>
     <string name="button_text_known">OK</string>
-    <string name="button_text_cleanup">Pulizia</string>
-    <string name="button_text_delete_from_white_list">Rimuovi</string>
+    <string name="button_text_cleanup">Pulisci</string>
+    <string name="button_text_delete_from_white_list">Rimuovi dalle eccezioni</string>
     <string name="empty_title_garbage_white_list">Vuota</string>
     <string name="button_text_view_detail">Dettagli</string>
     <string name="button_text_view_file">File</string>
@@ -241,8 +241,8 @@
     <string name="hints_scanfinish">Nessun file da eliminare, prova con la Pulizia Approfondita</string>
     <string name="hints_cleanfinish">Pulizia terminata</string>
     <string name="hints_num">0</string>
-    <string name="mainbtn_text_quick_cleanup">Pulizia %s</string>
-    <string name="mainbtn_text_quick_cleanup_default">Pulisci</string>
+    <string name="mainbtn_text_quick_cleanup">Avvia Pulizia %s</string>
+    <string name="mainbtn_text_quick_cleanup_default">Avvia Pulizia</string>
     <string name="pref_title_open_optimizer_memory_scan">Pulizia memoria</string>
     <string name="pref_summary_open_optimizer_memory_scan">Controlla e pulisci automaticamente la memoria</string>
     <string name="toast_select_white_need_remove">Seleziona gli elementi da rimuovere</string>
