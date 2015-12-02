@@ -54,4 +54,7 @@
     <string name="cta_declaration_ignore">Non mostrare più</string>
     <string name="cta_declaration_positive_text">Consenti</string>
     <string name="cta_declaration_negative_text">Esci</string>
+    <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+    <string name="distance_unit_kilometer">km</string>
+    <string name="distance_unit_meter">m</string>
 </resources>
