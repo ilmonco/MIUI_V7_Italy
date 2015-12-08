@@ -77,8 +77,8 @@
     <string name="status_bar_settings_advanced">Impostazioni aggiuntive</string>
     <string name="status_bar_settings_show_flow_info">Mostra dettagli trasmissione</string>
     <string name="status_bar_app_disable_notification">Vuoto</string>
-    <string name="status_bar_app_enable_message">Icone</string>
-    <string name="status_bar_app_enable_floating">Finestre di notifica</string>
+    <string name="status_bar_app_enable_message">Badge</string>
+    <string name="status_bar_app_enable_floating">Notifiche a comparsa</string>
     <string name="status_bar_app_enable_keyguard">Lockscreen</string>
     <string name="status_bar_app_des_separator">", "</string>
     <string name="status_bar_settings_show_carrier">Mostra operatore</string>
