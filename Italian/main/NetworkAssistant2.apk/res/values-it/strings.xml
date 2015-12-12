@@ -61,7 +61,7 @@ Fascia bassa: %1$s rimanenti | %2$s usati"</string>
     <string name="usage_sorted_activity_lable">Utilizzo dati</string>
     <string name="usage_sorted_loading_text">Caricamento…</string>
     <string name="usage_sorted_empty_text">Vuoto</string>
-    <string name="person_hotpot">Hotspot mobili</string>
+    <string name="person_hotpot">Hotspot mobile</string>
     <string name="system_app">Applicazioni di sistema</string>
     <string name="deleted_apps">Applicazioni eliminate</string>
     <string name="root">Root</string>
